@@ -1,0 +1,1 @@
+2018-8-29 拉gcr.io/kuar-demo/kuard-amd64:1
